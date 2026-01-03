@@ -1,0 +1,5 @@
+user_id,country,n_orders,avg_amount,total_amount,is_high_value
+u001,US,3,12.0,36.0,0
+u002,CA,7,15.0,105.0,1
+u003,GB,1,9.0,9.0,0
+u004,US,10,8.0,80.0,1
